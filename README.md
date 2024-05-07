@@ -1,4 +1,4 @@
-##University/Campus Networking Project
+# University/Campus Networking Project
 # University-Campus-Networking
 ## Overview
 This project proposal outlines the implementation of a robust and scalable network infrastructure within a university or campus environment. The aim is to enhance connectivity, security, and efficiency to meet the growing demands of students, faculty, and staff. The proposed solution utilizes Cisco Packet Tracer as a simulation tool for designing, testing, and visualizing the network architecture.
